@@ -1,0 +1,110 @@
+.container {
+    margin-bottom: 100px;
+    /* to create gaps between container(s) class */
+}
+
+
+/* carousel BG color and style */
+.bg-color {
+    /* margin-top: 50px; */
+    background-color: #fceae8;
+    border-radius: 20px;
+}
+
+/* custom color for BS4 buttons */
+/* custom color for btn-danger class */
+.btn-dange.custom-btn1 {
+    background-color: hotpink;
+}
+
+.btn-danger.custom-btn2 {
+    background-color: orange;
+}
+
+.btn-danger.custom-btn3 {
+    background-color: whitesmoke;
+    color: orangered;
+}
+
+/* .btn-danger.custom-btn3:hover{
+    transform: scale(1.1);
+    background-color: seagreen;
+} */
+/* adjust padding for carousel items */
+.carousel-item {
+    padding: 20px 40px;
+}
+
+/* text color for price */
+.price {
+    color: hotpink;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px red;
+}
+
+.cat1 {
+    background-color: hotpink;
+}
+
+.cat2 {
+    background-color: blueviolet;
+}
+
+.cat3 {
+    background-color: dodgerblue;
+}
+
+/* Categories H1 Text color */
+.categories h1 {
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.categories img {
+    width: 100px;
+}
+
+/* .card-deck{
+    padding: 10px 20px;
+    box-shadow:10px 20px 20px 0px blueviolet; -->box-shdaow effect for whole card deck
+} */
+.card {
+    border: none;
+    box-shadow: 5px 5px 5px rgb(49, 226, 43);
+    /*box shdow for each card part*/
+}
+
+.btn-size {
+    margin: auto;
+    padding: 5px 30px;
+    font-weight: 500;
+}
+
+.card-footer {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, blueviolet, dodgerblue);
+    border: none;
+}
+
+#bags h6 {
+    color: hotpink;
+}
+
+#contact {
+    background-color: sandybrown;
+    border-radius: 15px;
+    height: 300px;
+
+}
+
+footer {
+
+    text-align: center;
+    font-weight: 900;
+}
